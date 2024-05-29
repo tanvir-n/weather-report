@@ -1,0 +1,9 @@
+# node packages
+node_modules
+
+
+# vscode next module folder
+.next
+
+# node installed packages
+package-lock.json
